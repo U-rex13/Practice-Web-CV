@@ -1,5 +1,6 @@
 # Web-CV
  Portfolio website created using HTML-CSS
+ Link: https://u-rex13.github.io/Practice-Web-CV/
 
 ![image](https://user-images.githubusercontent.com/109918405/220027082-f3a0a268-4447-4dc1-9ea8-187e010feb83.png)
 
